@@ -63,7 +63,7 @@ const Chatbot = () => {
         <PopoverContent>
           <PopoverArrow />
           <PopoverCloseButton />
-          <PopoverHeader>Chat with GPT!</PopoverHeader>
+          <PopoverHeader>Chat with GEMINI</PopoverHeader>
           <PopoverBody>
             <VStack spacing={4} align="stretch">
               <Box
